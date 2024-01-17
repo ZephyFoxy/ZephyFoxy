@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="center">
+  
+  # ZephyFoxy
+  <img src="ZephyPixelAnim.gif" height="320px" />
 
-<!--
-**ZephyFoxy/ZephyFoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+🔒 Information Security Consultant 🔒  
+🖥 Ethical Hacker 🖥  
+🐧 Linux 🐧  
+🎨 Artist 🎨  
+✈️ USAF Veteran ✈️  
+💖 Chubby Girl & Milf Enthusiast 💖  
+🖨️ 3D Printing Nerd 🖨️  
 
-Here are some ideas to get you started:
+Tools of the trade:
+Wacom Intuos M
+Paint Tool SAI v2
+G.I.M.P
+Razer Tatarus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3D Printing Gear:
+Anycubic Kobra 2 Neo
+Bambu Labs P1S 
+```
+  
+|   **Twitter**   |          https://twitter.com/ZephyFoxy         |
+|:---------------:|:----------------------------------------------:|
+| **FurAffinity** | https://www.furaffinity.net/user/zepher-tensho |
+|   **InkBunny**  |         https://inkbunny.net/ZephyFoxy         |
+|    **Weasyl**   |        https://www.weasyl.com/~zephyfoxy       |
+|   **Mastodon**  |       https://mastodon.art/@ZephyFoxyArt       |
+|   **BlueSky**   | https://bsky.app/profile/zephyfoxy.bsky.social |
+|    **Cohost**   |       https://cohost.org/ZephyFoxy?page=0      |
