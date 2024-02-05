@@ -20,7 +20,8 @@ Razer Tatarus
 
 3D Printing Gear:
 Anycubic Kobra 2 Neo
-Bambu Labs P1S 
+Bambu Labs P1S
+Bambu Labs X1C  
 ```
   
 |   **Twitter**   |          https://twitter.com/ZephyFoxy         |
